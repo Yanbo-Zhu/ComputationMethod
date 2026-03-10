@@ -238,3 +238,4 @@ f 的 n+1 阶导数一定为0， 因为 x最多是 with power to k
   
 ![](image/Pasted%20image%2020260210191345.png)
 
+
