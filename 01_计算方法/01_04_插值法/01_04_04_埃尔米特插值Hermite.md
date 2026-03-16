@@ -196,6 +196,7 @@ x_j 是 alpha_i 的2重零点 ， j 的取值 是 0 到 n, 除了i
 
 ![](image/Pasted%20image%2020260308185501.png)
 
+![](image/Pasted%20image%2020260316113018.png)
 
 ---
 
