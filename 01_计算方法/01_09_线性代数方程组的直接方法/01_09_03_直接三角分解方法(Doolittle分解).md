@@ -73,6 +73,12 @@ aij 使原本 A 中的某个元素的值
 ![](image/Pasted%20image%2020260405121708.png)
 
 
+4
+
+![](image/Pasted%20image%2020260408002910.png)
+
+![](image/Pasted%20image%2020260408002917.png)
+
 
 
 # 2 矩阵A能做LU分解的充要条件:  A的顺序主子式全不为0 
@@ -129,6 +135,16 @@ A 可以分解为 LD 乘上 $\tilde{U}$, LD 为 下三角矩阵,  U~ 单位上�
 L为单位下三角矩阵, D为对角阵, U为单位上三角阵, 并且求解 Ax=b 
 
 
+---
+
+
+例题2
+
+![](image/Pasted%20image%2020260408003047.png)
+
+
+![](image/Pasted%20image%2020260408003055.png)
+
 ## 3.2 如果A为对称正定矩阵: 对称正定矩阵的平方根分解
 
 ![](image/Pasted%20image%2020260405125256.png)
@@ -184,6 +200,12 @@ G 中内部元素腿酸
 
 ![](image/Pasted%20image%2020260405140122.png)
 
+----
+
+
+![](image/Pasted%20image%2020260408003110.png)
+
+![](image/Pasted%20image%2020260408003117.png)
 
 ## 4.2 对称正定矩阵的性质 
 
