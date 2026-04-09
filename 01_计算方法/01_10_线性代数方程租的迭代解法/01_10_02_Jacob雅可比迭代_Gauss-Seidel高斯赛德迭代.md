@@ -51,7 +51,13 @@
 
 ![](image/Pasted%20image%2020260408142825.png)
 
+---
 
+例子2
+
+![](image/Pasted%20image%2020260409130229.png)
+
+![](image/Pasted%20image%2020260409130237.png)
 
 # 2 Gauss-Seidel高斯赛德迭代
 
@@ -100,6 +106,12 @@ L 为 负的下三角矩阵,   U为正的上三角矩阵
 
 
 ![](image/Pasted%20image%2020260408173913.png)
+
+
+
+## 2.4 例题
+
+![](image/Pasted%20image%2020260409130256.png)
 
 
 # 3 两种收敛方式的比较 
@@ -195,4 +207,30 @@ A为严格对角占优的时候, 两种 迭代都收敛
 
 
 ---
+
+## 4.3 
+
+![](image/Pasted%20image%2020260409130321.png)
+
+
+## 4.4 
+
+![](image/Pasted%20image%2020260409130351.png)
+
+## 4.5 ##
+
+![](image/Pasted%20image%2020260409130403.png)
+
+![](image/Pasted%20image%2020260409130410.png)
+
+## 4.6 
+
+![](image/Pasted%20image%2020260409130428.png)
+
+![](image/Pasted%20image%2020260409130434.png)
+
+![](image/Pasted%20image%2020260409130443.png)
+
+
+![](image/Pasted%20image%2020260409130450.png)
 
