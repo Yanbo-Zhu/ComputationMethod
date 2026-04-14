@@ -2,6 +2,9 @@
 
 # 1 Householder阵 H
 
+==结论 : 任意两个向量a,b 肯定能找到一个 正交矩阵H, 使得 Ha=b ==
+
+
 ## 1.1 推导
 
 ![](image/Pasted%20image%2020260410011628.png)
