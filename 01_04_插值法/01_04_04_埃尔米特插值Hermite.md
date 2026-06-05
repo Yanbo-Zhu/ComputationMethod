@@ -183,6 +183,16 @@ phi 的四阶 导数等于0
 
 
 
+## 4.3 自查
+
+
+![](image/Pasted%20image%2020260604164723.png)
+
+![](image/Pasted%20image%2020260604164839.png)
+
+
+![](image/Pasted%20image%2020260604164850.png)
+
 # 5 2n+1次的 Hermite多项式
 
 ![](image/Pasted%20image%2020260308184334.png)
